@@ -1,0 +1,4 @@
+Titre du Projet : Application de Gestion Intelligente du Stationnement Urbain
+Description : Solution IoT pour smart parking avec détection en temps réel des places disponibles, réservation via mobile, tarification dynamique et guidage automatique vers les parkings avec analyse prédictive de l'occupation.
+Technologies Suggérées : Flutter, Spring Boot, IoT (sensors), Firebase
+Thèmes Principaux : Smart City, Gestion du Transport urbain
